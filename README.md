@@ -47,6 +47,7 @@ This project analyzes ChIP-seq data from Barutcu et al., 2016, to investigate ho
 - Integrated ChIP-seq + RNA-seq results linking RUNX1 binding to gene expression  
 
 ## References
-- Barutcu AR, et al. *RUNX1 contributes to higher-order chromatin organization and gene regulation in breast cancer cells*, 2016  
+Barutcu AR, Hong D, Lajoie BR, McCord RP, van Wijnen AJ, Lian JB, Stein JL, Dekker J, Imbalzano AN, Stein GS. RUNX1 contributes to higher-order chromatin organization and gene regulation in breast cancer cells. Biochim Biophys Acta. 2016 Nov;1859(11):1389-1397. doi: 10.1016/j.bbagrm.2016.08.003. Epub 2016 Aug 9. PMID: 27514584; PMCID: PMC5071180.
+
 - ENRICHR: https://maayanlab.cloud/Enrichr/  
 - UCSC Table Browser: https://genome.ucsc.edu/cgi-bin/hgTables  
