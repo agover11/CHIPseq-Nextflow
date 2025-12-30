@@ -3,6 +3,7 @@
 ## Description
 This project analyzes ChIP-seq data from Barutcu et al., 2016, to investigate how the transcription factor **RUNX1** affects gene expression and chromatin organization in MCF-7 breast cancer cells. The workflow integrates ChIP-seq and RNA-seq analysis to identify RUNX1 binding sites, assess reproducibility, and connect binding events with gene expression changes.
 
+
 ## Methods
 ### Data Input
 - 2 biological replicates, each with paired IP (RUNX1 ChIP) and INPUT controls  
@@ -29,6 +30,7 @@ This project analyzes ChIP-seq data from Barutcu et al., 2016, to investigate ho
 - Visualization and analysis using **Python v3.10.19** and **R v4.4.3**  
 
 
+
 ## Deliverables
 - Raw FASTQ files for IP and INPUT samples  
 - Trimmed and aligned BAM files  
@@ -38,6 +40,7 @@ This project analyzes ChIP-seq data from Barutcu et al., 2016, to investigate ho
 - Motif enrichment tables  
 - Functional enrichment plots  
 - Integrated ChIP-seq + RNA-seq analysis linking RUNX1 binding to gene expression  
+
 
 ## References
 - Barutcu AR, et al. *RUNX1 contributes to higher-order chromatin organization and gene regulation in breast cancer cells*, 2016  
